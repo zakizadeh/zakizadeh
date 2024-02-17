@@ -1,5 +1,42 @@
 # 💫 About Me:
-💫 About Me:<br>😊 I'm a senior .NET developer 𝘄𝗶𝘁𝗵 +9 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 and a strong technical background and a solid foundation. I have been working as a Backend .NET Developer and Full Stack .NET Developer.<br><br>💡I have a great passion for writing 𝗰𝗹𝗲𝗮𝗻 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗮𝗯𝗹𝗲 𝗰𝗼𝗱𝗲𝘀. Collaborative 𝘁𝗲𝗮𝗺 𝗽𝗹𝗮𝘆𝗲𝗿 with excellent analytical, communication, and 𝗶𝗻𝘁𝗲𝗿𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀.<br><br>✌𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 with the tendency to 𝘁𝗵𝗶𝗻𝗸 𝗼𝘂𝘁𝘀𝗶𝗱𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗯𝗼𝘅 and 𝘁𝗵𝗿𝗶𝘃𝗲 𝗳𝗼𝗿 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲. Relentless when challenged, 𝗻𝗲𝘃𝗲𝗿 𝗴𝗶𝘃𝗲𝘀 𝘂𝗽 until an efficient, s𝗲𝗰𝘂𝗿𝗲 𝗮𝗻𝗱 𝘆𝗲𝘁 𝘀𝗶𝗺𝗽𝗹𝗲 𝗲𝗻𝗼𝘂𝗴𝗵 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗶𝘀 𝗳𝗼𝘂𝗻𝗱.<br><br>💻 About my skills:<br>✅ Back-End<br>• C#, .NET Core, ASP.NET Core<br>• ASP .NET MVC<br>• Docker, Rabbit MQ, Mass Transit<br>• Polly, Elastic Search, Ocelot<br>• REST, Restful API<br>• EF Core, Redis, Dapper<br>• SQL, Mongo<br>• Unit Testing, XUnit, Integration test<br>• TDD, BDD<br>• Azure DevOps, Git, Jira<br><br>✅ Front-End<br>• Angular, HTML, CSS, Bootstrap, JavaScript<br><br>✅ Software Architecture<br>• Distributed systems, Microservices<br>• Domain-Driven-Design, CQRS, Clean architecture<br>• Design & Architectural Patterns, SOLID Principles<br><br>✅ Cloud<br>• Azure, Deploy using Web App for Containers and Docker Hub<br>• CI/CD<br><br><br><br>🔶 Master's Degree focused in Industrial Robots from Science and Research University of Tehran, Iran.<br>🔶 Interested in full-stack web development and back-end development.<br>🔶I'm always open to taking up new challenges helping me to improve myself and make me move forward.
+😊 I'm a Senior Frontend Developer 𝘄𝗶𝘁𝗵 10 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 and a strong technical background and a solid foundation. I have been working as a Frontend Developer and Full Stack Developer.
+
+💡I have a great passion for writing 𝗰𝗹𝗲𝗮𝗻 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗮𝗯𝗹𝗲 𝗰𝗼𝗱𝗲𝘀. Collaborative 𝘁𝗲𝗮𝗺 𝗽𝗹𝗮𝘆𝗲𝗿 with excellent analytical, communication, and 𝗶𝗻𝘁𝗲𝗿𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀.
+
+✌𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 with the tendency to 𝘁𝗵𝗶𝗻𝗸 𝗼𝘂𝘁𝘀𝗶𝗱𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗯𝗼𝘅 and 𝘁𝗵𝗿𝗶𝘃𝗲 𝗳𝗼𝗿 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲. Relentless when challenged, 𝗻𝗲𝘃𝗲𝗿 𝗴𝗶𝘃𝗲𝘀 𝘂𝗽 until an efficient, s𝗲𝗰𝘂𝗿𝗲 𝗮𝗻𝗱 𝘆𝗲𝘁 𝘀𝗶𝗺𝗽𝗹𝗲 𝗲𝗻𝗼𝘂𝗴𝗵 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗶𝘀 𝗳𝗼𝘂𝗻𝗱.
+ 
+💻 About my skills:
+
+✅ Front-End
+• Angular
+• JavaScript
+• TypeScript
+• HTML
+• CSS
+• Bootstrap
+
+
+✅ Back-End
+• C#
+• ASP .NET MVC
+• Docker
+• REST, Restful API 
+• SQL
+• Unit Testing, XUnit, Integration test
+• TDD, BDD
+• Azure DevOps, Git, Jira
+
+✅ Software Architecture
+• Distributed systems, Microservices
+• Domain-Driven-Design, CQRS, Clean architecture
+• Design & Architectural Patterns, SOLID Principles
+
+✅ Cloud
+• Azure, Deploy using Web App for Containers and Docker Hub
+• CI/CD
+
+🔶 Interested in full-stack web development and front-end development.
+🔶I'm always open to taking up new challenges helping me to improve myself and make me move forward.
 
 
 ## 🌐 Socials:
